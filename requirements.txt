@@ -1,0 +1,8 @@
+pandas
+streamlit
+azure-storage-blob==12.20.0
+datetime 
+pillow
+pytesseract
+streamlit_cropper
+plotly
