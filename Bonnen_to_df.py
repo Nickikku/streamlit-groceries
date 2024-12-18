@@ -4,7 +4,7 @@ import glob
 import pandas as pd
 import numpy as np
 
-folder = "/Users/nicobrand/Library/Mobile Documents/com~apple~CloudDocs/Python projects/bon/" 
+folder = ""
 filename_output_bonnen = folder + 'bonnen_output.csv'
 filename_log_txt = folder + 'log.txt'
 
